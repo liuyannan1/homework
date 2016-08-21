@@ -1,0 +1,21 @@
+{
+  "name": "zhufengpeixunblog",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "nan <2389979531@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
